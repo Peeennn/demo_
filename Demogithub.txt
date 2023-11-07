@@ -1,0 +1,1 @@
+tạo một dự án trên git và bắt đầu lấy về là làm
