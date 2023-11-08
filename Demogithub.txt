@@ -1,1 +1,18 @@
 tạo một dự án trên git và bắt đầu lấy về là làm
+B1: Tạo một foder trên Git
+B2: Clon git về bằng link
+B3: git status
+B4: git add .
+B5: git commit -m "abc" (Tạo nội dung)
+B6: git push origin main
+
+Đã Tạo dự án trên máy up lên git
+B1:git init
+B2:git status
+B3: git add .
+B4: git commit -m "abc"
+B5: paste câu lệnh remote trên git
+B6: git push origin master
+
+Cấu hình SSH cho git (Tạo key cho git)
+ssh-keygen -t ed25519 -C "Phatnguyen2k31901@gmail.com"
